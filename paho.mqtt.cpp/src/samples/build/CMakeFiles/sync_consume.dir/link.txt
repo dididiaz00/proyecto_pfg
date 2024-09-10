@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sync_consume.dir/sync_consume.o -o sync_consume 

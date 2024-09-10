@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/topic_publish.dir/topic_publish.o -o topic_publish 

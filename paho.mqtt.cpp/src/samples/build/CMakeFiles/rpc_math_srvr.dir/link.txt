@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/rpc_math_srvr.dir/rpc_math_srvr.o -o rpc_math_srvr 

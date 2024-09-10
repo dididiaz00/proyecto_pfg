@@ -1,0 +1,4 @@
+/home/dididiaz00/paho/git/paho.mqtt.cpp/MI_PROGAMA/INTENTOS/build/CMakeFiles/topic_publish.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/MI_PROGAMA/INTENTOS/build/CMakeFiles/mqttpp_chat.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/MI_PROGAMA/INTENTOS/build/CMakeFiles/edit_cache.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/MI_PROGAMA/INTENTOS/build/CMakeFiles/rebuild_cache.dir

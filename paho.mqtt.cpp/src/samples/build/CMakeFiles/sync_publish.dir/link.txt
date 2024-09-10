@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sync_publish.dir/sync_publish.o -o sync_publish 

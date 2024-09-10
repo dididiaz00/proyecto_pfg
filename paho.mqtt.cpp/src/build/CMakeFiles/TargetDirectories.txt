@@ -1,0 +1,15 @@
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/paho-cpp-objs.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/paho-mqttpp3.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/paho-mqttpp3-static.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/edit_cache.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/rebuild_cache.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/list_install_components.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/install.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/install/local.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/CMakeFiles/install/strip.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/edit_cache.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/rebuild_cache.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/list_install_components.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/install.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/install/local.dir
+/home/dididiaz00/paho/git/paho.mqtt.cpp/src/build/mqtt/CMakeFiles/install/strip.dir

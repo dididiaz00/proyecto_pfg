@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/sync_reconnect.dir/sync_reconnect.o -o sync_reconnect 
